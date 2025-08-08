@@ -126,7 +126,7 @@
 
         <footer class="w-full py-8 px-6 sm:px-10">
             <div class="max-w-4xl mx-auto text-center">
-                <p class="text-gray-600">© {{ date('Y') }} DewaKoding. All rights reserved.</p>
+                <p class="text-gray-600">© {{ date('Y') }} All rights reserved.</p>
                 <p class="text-sm text-gray-500 mt-2">Built with Laravel and Filament</p>
             </div>
         </footer>
